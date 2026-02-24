@@ -16,3 +16,8 @@
 
 #### 🤖 Robotics Tools
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/MuJoCo-000000?style=flat-square&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA_Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white">
+
+### 📫 Contact & Documents
+* [cite_start]**Email:** soon32795p@gmail.com [cite: 8]
+* [cite_start]**Resume:** [CV_석광훈.pdf](./CV_2026.pdf) 
+* [cite_start]**Portfolio:** [Portfolio_석광훈.pdf](./Portfolio_석광훈(no video).pdf)
