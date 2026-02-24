@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m interested in...
+
+* 🤖 **Reinforcement Learning & Sequential Decision Making:** Optimizing autonomous agents to make robust decisions in complex, dynamic environments.
+* 🚀 **Robot VLA (Vision-Language-Action) Models:** Exploring foundation models that bridge the gap between multimodal perception and robotic control.
+* 🤝 **Human-Robot Interaction (HRI):** Developing interactive learning systems that allow robots to understand and collaborate with humans naturally.
