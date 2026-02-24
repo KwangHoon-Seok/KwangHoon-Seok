@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/MuJoCo-000000?style=flat-square&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA_Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white">
 
 ### 📫 Contact & Documents
-**Email:** soon32795p@gmail.com [cite: 8]
+**Email:** soon32795p@gmail.com
 **Resume:** [CV_석광훈.pdf](./CV_2026.pdf) 
 **Portfolio:** [Portfolio_석광훈.pdf](./Portfolio_석광훈.pdf)
